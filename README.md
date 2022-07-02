@@ -35,3 +35,10 @@ Print out all blocks involving transactions to the Bitcoin Faucet:
 
 There's a special search term to look for non-standard transactions:
   dbdump.py --search-blocks=NONSTANDARD_CSCRIPTS
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
